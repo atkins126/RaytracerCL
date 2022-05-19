@@ -1,9 +1,9 @@
-﻿#ifndef RAYTRACE_OBJECT_CL
-#define RAYTRACE_OBJECT_CL
+﻿#ifndef RAYTRACING_OBJECT_CL
+#define RAYTRACING_OBJECT_CL
 //############################################################################## ■
 
 #include<Math.cl>
-#include<Raytrace.core.cl>
+#include<Raytracing.core.cl>
 
 //$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$【型】
 
