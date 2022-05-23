@@ -1,9 +1,9 @@
-﻿#ifndef RAYTRACE_MATERIAL_CL
-#define RAYTRACE_MATERIAL_CL
+﻿#ifndef RAYTRACING_MATERIAL_CL
+#define RAYTRACING_MATERIAL_CL
 //############################################################################## ■
 
 #include<Math.cl>
-#include<Raytrace.core.cl>
+#include<Raytracing.core.cl>
 
 //$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$【型】
 

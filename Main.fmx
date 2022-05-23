@@ -115,7 +115,7 @@ object Form1: TForm1
         Margins.Right = 10.000000000000000000
         Margins.Bottom = 10.000000000000000000
         Size.Width = 800.000000000000000000
-        Size.Height = 600.000000000000000000
+        Size.Height = 599.999877929687500000
         Size.PlatformDefault = False
         WrapMode = Stretch
         OnMouseDown = Image1MouseDown

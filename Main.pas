@@ -141,13 +141,13 @@ begin
           Add.Source.LoadFromFile( '..\..\_DATA\Math.cl'              );
           Add.Source.LoadFromFile( '..\..\_DATA\Math.D4x4.cl'         );
           Add.Source.LoadFromFile( '..\..\_DATA\Color.cl'             );
-          Add.Source.LoadFromFile( '..\..\_DATA\Raytrace.core.cl'     );
-          Add.Source.LoadFromFile( '..\..\_DATA\Raytrace.Object.cl'   );
-          Add.Source.LoadFromFile( '..\..\_DATA\Raytrace.Material.cl' );
+          Add.Source.LoadFromFile( '..\..\_DATA\Raytracing.core.cl'     );
+          Add.Source.LoadFromFile( '..\..\_DATA\Raytracing.Object.cl'   );
+          Add.Source.LoadFromFile( '..\..\_DATA\Raytracing.Material.cl' );
      end;
 
      _Execut := TCLExecut.Create( _Contex );
-     _Execut.Source.LoadFromFile( '..\..\_DATA\Raytrace.cl' );
+     _Execut.Source.LoadFromFile( '..\..\_DATA\Raytracing.cl' );
 
      _Buildr := _Execut.Buildrs[ _Device ];
 

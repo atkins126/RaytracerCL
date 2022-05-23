@@ -3,9 +3,9 @@
 #include<Math.cl>
 #include<Math.D4x4.cl>
 #include<Color.cl>
-#include<Raytrace.core.cl>
-#include<Raytrace.Object.cl>
-#include<Raytrace.Material.cl>
+#include<Raytracing.core.cl>
+#include<Raytracing.Object.cl>
+#include<Raytracing.Material.cl>
 
 //$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$【型】
 
